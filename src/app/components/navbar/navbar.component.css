@@ -1,0 +1,13 @@
+img{
+    width: 72px;
+}
+li a.active{
+    color: #2AB5C1 !important;
+    font-weight: bold;
+}
+.bg-light{
+    background-color:#1d4345!important;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #fff;
+}
